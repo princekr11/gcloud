@@ -48,7 +48,7 @@
     "gapitoken": "^0.1.3",
     "node-uuid": "^1.4.1",
     "protobufjs": "^3.4.0",
-    "request": "https://github.com/princekr11/request.git#13e3fc2684717d21a8f4d878798f1b9a62717d7a",
+    "request": "https://github.com/princekr11/request.git",
     "stream-events": "^1.0.1",
     "through2": "^0.6.3"
   },
